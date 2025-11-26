@@ -17,7 +17,7 @@ This script analyzes the impact of feature removal on classifier accuracy for pe
 This script provides functions for processing and analyzing perturbation stimulus datasets. It includes utilities for data loading, feature extraction, cross-validation, and SHAP-based feature pruning.
 
 ### plot_gauss2d_with_errorbars.m
-This MATLAB script visualizes 2D Gaussian data distributions with error bars. It plots data points, a confidence ellipse, and the major/minor axes of the distribution.
+This MATLAB script visualizes 2D Gaussian distributed data with plotted error bars. It plots data points, a confidence ellipse, and the major/minor axes of the distribution.
 
 ### plot_multi_pkl_files.py
 This script reads multiple pickle files containing model performance data and generates plots. It averages results from different simulation runs and visualizes the mean accuracy with optional error bars.
