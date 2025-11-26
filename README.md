@@ -1,4 +1,4 @@
-# Code used for the decoding analysis and data loading/analysis/plotting in the Ribeiro etal, Critical Scaling of Novelty in the Cortex, Nature Communications, 2025.
+# Code used for the decoding analysis and data loading/analysis/plotting in the Ribeiro et al., Critical Scaling of Novelty in the Cortex, Nature Communications, 2025.
 
 Below is a brief summary of the Python and MATLAB scripts posted in this repository.
 
